@@ -1,0 +1,81 @@
+﻿.footer, .item, .fieldnote{
+    font-size: 13px;
+}
+
+.required{
+    color: red;    
+}
+
+.invisible{
+    display: none;
+}
+
+.label{
+	font-size: 14px;
+	font-weight: normal;
+	text-align: left;
+	color: black;
+}
+
+fieldset{
+	border-radius: 5px;
+}
+
+.btnSubmit{
+	border: none;
+	color: black;
+	font-size: 16px;
+	font-family: "Segoe UI";
+	line-height: 2em;
+}
+
+.header{
+	font-size: 18px;
+	color: black;
+}
+
+.subheader, .label, .header, .footer, .text, #btnSubmit, .item, .grid, .pillheader{
+	font-family: "Segoe UI";
+	color: black;
+}
+
+.subheader{
+	font-size: 16px;
+	font-weight: bold;
+	font-variant: small-caps;
+}
+
+.maintitle{
+	font-family: "Segoe UI";
+}
+
+.item{
+	margin-left: 25px;
+}
+
+.fieldnote{
+	text-align: right;
+	color: black;
+}
+
+.grid{
+	font-size: 18px;
+}
+
+.text{
+	font-size: 14px;
+	font-weight: bold;
+	margin-left: 6px;
+}
+
+.inlineflex{
+	display: inline-flex;
+}
+
+.block{
+	display: block;
+}
+
+.outer{
+	border: none;
+}
